@@ -1,1 +1,1 @@
-![alt text](/images/profile.png "Charolette J Richardson")
+![alt text](/images/profile "Charolette J Richardson")
